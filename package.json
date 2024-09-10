@@ -1,0 +1,15 @@
+{
+  "name": "vidooza",
+  "version": "1.0.0",
+  "description": "A video streaming platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "stream"
+  ],
+  "author": "Rinkit Adhana",
+  "license": "ISC"
+}
