@@ -21,8 +21,9 @@ connectDB()
   .catch((err) => {
     console.log("MongoDB connection error", err);
   });
-// const app = express()
+
 //import express from "express"
+// const app = express()
 // ;(async () => {
 //   try {
 //     await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`)
